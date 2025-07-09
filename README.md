@@ -1,4 +1,3 @@
-# Sukoon
 
   <h1>Sukoon - Outlets Management System</h1>
 
